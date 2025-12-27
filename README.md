@@ -1,59 +1,63 @@
 ![](Banner_DA.png)
-# 👋 Hola, soy Diego Cusirramos
+# 👋 Hi, I'm Diego Cusirramos
 
-## 📊 Analista de Datos | Background en Ingeniería
+## 📊 Data Analyst | Engineering Background
 
-Analista de Datos Junior con sólida formación analítica y técnica, enfocado en transformar datos complejos en **insights accionables** para la toma de decisiones, análisis estadístico y visualización.
+Junior Data Analyst with a strong analytical and technical background, focused on transforming complex data into **actionable insights** for decision-making, statistical analysis, and data visualization.
 
----
-
-## 🛠️ Tecnologías y herramientas
-- **Lenguajes:** Python, SQL  
-- **Análisis de datos:** Pandas, NumPy  
-- **Visualización:** Power BI, Matplotlib, Seaborn, Plotly  
-- **Hojas de cálculo:** Excel Avanzado (VBA), Google Sheets  
-- **Otros:** Git, APIs, Web Scraping, Business Intelligence  
 
 ---
 
-## 🚀 Proyectos destacados
+## 🛠️ Technologies and Tools
+- **Languages:** Python, SQL  
+- **Data Analysis:** Pandas, NumPy  
+- **Visualization:** Power BI, Matplotlib, Seaborn, Plotly  
+- **Spreadsheets:** Advanced Excel (VBA), Google Sheets  
+- **Other:** Git, APIs, Web Scraping, Business Intelligence  
 
-### 📌 Análisis del mercado de transporte urbano (SQL)
+---
+
+## 🚀 Featured Projects
+
+### 📌 Urban Transport Market Analysis (SQL)
 **TripleTen Bootcamp | 2025**  
-- Análisis de datos meteorológicos y viajes en taxi mediante consultas SQL avanzadas.
-- Identificación de patrones entre clima, duración de viajes y demanda del servicio.
-- **Impacto:** recomendaciones basadas en datos para el lanzamiento de una nueva app de taxis en Chicago.  
-**Tecnologías:** SQL, Python, Pandas, Matplotlib, Web Scraping
+- Analyzed weather and taxi trip data using advanced SQL queries.
+- Identified patterns between climate conditions, trip duration, and service demand.
+- **Impact:** delivered data-driven recommendations to support the launch of a new taxi application in Chicago.  
+**Technologies:** SQL, Python, Pandas, Matplotlib, Web Scraping
 
 ---
 
-### 📌 Aplicación web de análisis automotriz
+### 📌 Automotive Analysis Web Application
 **TripleTen Bootcamp | 2025**  
-- Desarrollo de una aplicación web interactiva con dashboards centralizados.
-- Integración de múltiples fuentes de datos y generación de reportes automatizados.
-- **Impacto:** acceso 24/7 a métricas clave del negocio para toma de decisiones ejecutivas.  
-**Tecnologías:** Python, Streamlit, Plotly, Pandas, APIs
+- Built a responsive web application with a centralized dashboard for business metrics monitoring.
+- Integrated multiple data sources and automated reporting processes.
+- **Impact:** enabled 24/7 access to key business metrics for executive decision-making.  
+**Technologies:** Python, Streamlit, Plotly, Pandas, APIs
 
 ---
 
-### 📌 Análisis de patrones de éxito en videojuegos
+### 📌 Analysis of Success Patterns in Video Games
 **TripleTen Bootcamp | 2025**  
-- Análisis de más de 16,000 registros de ventas para identificar patrones por región y plataforma.
-- Aplicación de análisis estadístico y pruebas de hipótesis.
-- **Impacto:** identificación de plataformas y géneros más rentables para optimizar estrategias de marketing.  
-**Tecnologías:** Python, Pandas, NumPy, Matplotlib, Seaborn
+- Analyzed sales data from over 16,000 video games to identify success patterns by region and platform.
+- Applied statistical analysis and hypothesis testing techniques.
+- **Impact:** identified the five most profitable platforms and top-performing genres to optimize marketing strategies.  
+**Technologies:** Python, Pandas, NumPy, Matplotlib, Seaborn
 
 ---
 
-## 🌱 Intereses profesionales
-📈 Análisis de datos  
+## 🌱 Professional Interests
+📈 Data Analysis  
 📊 Business Intelligence  
+🤖 Automation and Visualization  
+📉 Data-Driven Decision-Making
 🤖 Automatización y visualización  
 📉 Toma de decisiones basada en datos
 
 ---
 
-## 📫 Información de contacto
-📧 **Correo:** cusirramos.diego26@gmail.com  
-📱 **Teléfono:** +51 964 313 955  
+
+## 📫 Contact Information
+📧 **Email:** cusirramos.diego26@gmail.com  
+📱 **Phone:** +51 964 313 955  
 🔗 **LinkedIn:** [linkedin.com/in/cusirramos-diego](https://www.linkedin.com/in/cusirramos-diego/)  
