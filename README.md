@@ -51,8 +51,6 @@ Junior Data Analyst with a strong analytical and technical background, focused o
 📊 Business Intelligence  
 🤖 Automation and Visualization  
 📉 Data-Driven Decision-Making
-🤖 Automatización y visualización  
-📉 Toma de decisiones basada en datos
 
 ---
 
