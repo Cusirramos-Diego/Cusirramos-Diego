@@ -19,12 +19,11 @@ Junior Data Analyst with a strong analytical and technical background, focused o
 
 ## 🚀 Featured Projects
 
-### 📌 Urban Transport Market Analysis (SQL)
-**TripleTen Bootcamp | 2025**  
-- Analyzed weather and taxi trip data using advanced SQL queries.
-- Identified patterns between climate conditions, trip duration, and service demand.
-- **Impact:** delivered data-driven recommendations to support the launch of a new taxi application in Chicago.  
-**Technologies:** SQL, Python, Pandas, Matplotlib, Web Scraping
+### 📌  Operational performance analysis to identify ineffective operators (2026)
+- An analysis was conducted to identify underperforming operators within a virtual telephony service using indicators such as missed calls, wait times, and call volume, with the aim of supporting supervisors in operational decision-making.
+- Performed an exploratory analysis on over 300,000 call records, cleaning data inconsistencies, constructing operator-specific metrics, and segmenting performance by call type, client, and communication direction.
+- **Impact:** Analyzed the performance of over 1,000 operators using operational indicators derived from the company database, identifying those with the highest and lowest activity levels.  
+**Technologies:** Python, Pandas, NumPy, SciPy, SQL, Matplotlib, Seaborn
 
 ---
 
