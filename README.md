@@ -1,17 +1,17 @@
 ![](Banner_DA.png)
 # 👋 Hi, I'm Diego Cusirramos
 
-## 📊 Data Analyst | Engineering Background
+## 📊 Product Data Analyst | Engineering Background
 
-Junior Data Analyst with a strong analytical and technical background, focused on transforming complex data into **actionable insights** for decision-making, statistical analysis, and data visualization.
+Product Data Analyst with a strong analytical and technical background, focused on transforming complex data into **actionable insights** for decision-making, statistical analysis, and data visualization.
 
 
 ---
 
 ## 🛠️ Technologies and Tools
-- **Languages:** Python, SQL  
-- **Data Analysis:** Pandas, NumPy  
-- **Visualization:** Power BI, Matplotlib, Seaborn, Plotly  
+- **Languages:** Python, SQL, VBA  
+- **Data Analysis:** Pandas, NumPy, SciPy, Statsmodels  
+- **Visualization:** Power BI, Tableau, Matplotlib, Seaborn, Plotly  
 - **Spreadsheets:** Advanced Excel (VBA), Google Sheets  
 - **Other:** Git, APIs, Web Scraping, Business Intelligence  
 
@@ -27,26 +27,24 @@ Junior Data Analyst with a strong analytical and technical background, focused o
 
 ---
 
-### 📌 Automotive Analysis Web Application
-**TripleTen Bootcamp | 2025**  
-- Built a responsive web application with a centralized dashboard for business metrics monitoring.
-- Integrated multiple data sources and automated reporting processes.
-- **Impact:** enabled 24/7 access to key business metrics for executive decision-making.  
-**Technologies:** Python, Streamlit, Plotly, Pandas, APIs
+### 📌 Evaluation of a recommendation system using A/B testing (2026)
+- The impact of a new recommendation system on user behavior within a digital platform was evaluated to determine whether it improved conversion rates across the purchasing funnel.
+- Constructed a sequential conversion funnel to compare the performance of groups A and B.
+- **Impact:** Generated evidence-based recommendations to support decision-making regarding the implementation of the new system.  
+**Technologies:** Python, Pandas, SciPy, Statsmodels, Matplotlib, Seaborn
 
 ---
 
-### 📌 Analysis of Success Patterns in Video Games
-**TripleTen Bootcamp | 2025**  
-- Analyzed sales data from over 16,000 video games to identify success patterns by region and platform.
-- Applied statistical analysis and hypothesis testing techniques.
-- **Impact:** identified the five most profitable platforms and top-performing genres to optimize marketing strategies.  
-**Technologies:** Python, Pandas, NumPy, Matplotlib, Seaborn
+### 📌 Optimization of marketing strategies through user behavior analysis (2025)
+- The behavior of users on a digital platform was analyzed to evaluate the effectiveness of acquisition channels and optimize marketing investment.
+- Calculated business indicators such as CAC, LTV, ROI, and retention to compare the performance of different marketing channels.
+- **Impact:** Built cohort analyses and retention metrics for multiple acquisition channels.  
+**Technologies:** Python, SQL, Pandas, NumPy, Matplotlib, Seaborn
 
 ---
 
 ## 🌱 Professional Interests
-📈 Data Analysis  
+📈 Product Data Analysis  
 📊 Business Intelligence  
 🤖 Automation and Visualization  
 📉 Data-Driven Decision-Making
