@@ -17,6 +17,19 @@ Product Data Analyst with a strong analytical and technical background, focused 
 
 ---
 
+## 📂 What you'll find in this portfolio
+This portfolio demonstrates how I use data to support product decisions across different business scenarios.
+
+| Featured Project | Product Analytics competencies demonstrated |
+|------------------|---------------------------------------------|
+| 📞 **Operational Performance Analysis** | KPI definition, operational performance measurement, customer service analytics, statistical validation |
+| 🧪 **Recommendation System A/B Test** | Experiment design, hypothesis testing, conversion analysis, product impact evaluation |
+| 📈 **Marketing Strategy Optimization** | Acquisition funnel analysis, customer segmentation, LTV, CAC, ROI and growth analytics |
+
+> **Together, these projects demonstrate my ability to transform data into product decisions through exploratory analysis, statistical inference and business-oriented recommendations.**
+
+---
+
 ## 🚀 Featured Projects
 
 ### 📌  Operational performance analysis to identify ineffective operators (2026)
